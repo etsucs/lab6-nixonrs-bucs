@@ -1,0 +1,15 @@
+C:\Users\randy\OneDrive - East Tennessee State University\ETSU SEMESTER\Spring Semester 2022\CSCI 1250\lab\lab6\bin\Debug\net6.0\lab6.exe
+C:\Users\randy\OneDrive - East Tennessee State University\ETSU SEMESTER\Spring Semester 2022\CSCI 1250\lab\lab6\bin\Debug\net6.0\lab6.deps.json
+C:\Users\randy\OneDrive - East Tennessee State University\ETSU SEMESTER\Spring Semester 2022\CSCI 1250\lab\lab6\bin\Debug\net6.0\lab6.runtimeconfig.json
+C:\Users\randy\OneDrive - East Tennessee State University\ETSU SEMESTER\Spring Semester 2022\CSCI 1250\lab\lab6\bin\Debug\net6.0\lab6.dll
+C:\Users\randy\OneDrive - East Tennessee State University\ETSU SEMESTER\Spring Semester 2022\CSCI 1250\lab\lab6\bin\Debug\net6.0\ref\lab6.dll
+C:\Users\randy\OneDrive - East Tennessee State University\ETSU SEMESTER\Spring Semester 2022\CSCI 1250\lab\lab6\bin\Debug\net6.0\lab6.pdb
+C:\Users\randy\OneDrive - East Tennessee State University\ETSU SEMESTER\Spring Semester 2022\CSCI 1250\lab\lab6\obj\Debug\net6.0\lab6.csproj.AssemblyReference.cache
+C:\Users\randy\OneDrive - East Tennessee State University\ETSU SEMESTER\Spring Semester 2022\CSCI 1250\lab\lab6\obj\Debug\net6.0\lab6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\randy\OneDrive - East Tennessee State University\ETSU SEMESTER\Spring Semester 2022\CSCI 1250\lab\lab6\obj\Debug\net6.0\lab6.AssemblyInfoInputs.cache
+C:\Users\randy\OneDrive - East Tennessee State University\ETSU SEMESTER\Spring Semester 2022\CSCI 1250\lab\lab6\obj\Debug\net6.0\lab6.AssemblyInfo.cs
+C:\Users\randy\OneDrive - East Tennessee State University\ETSU SEMESTER\Spring Semester 2022\CSCI 1250\lab\lab6\obj\Debug\net6.0\lab6.csproj.CoreCompileInputs.cache
+C:\Users\randy\OneDrive - East Tennessee State University\ETSU SEMESTER\Spring Semester 2022\CSCI 1250\lab\lab6\obj\Debug\net6.0\lab6.dll
+C:\Users\randy\OneDrive - East Tennessee State University\ETSU SEMESTER\Spring Semester 2022\CSCI 1250\lab\lab6\obj\Debug\net6.0\ref\lab6.dll
+C:\Users\randy\OneDrive - East Tennessee State University\ETSU SEMESTER\Spring Semester 2022\CSCI 1250\lab\lab6\obj\Debug\net6.0\lab6.pdb
+C:\Users\randy\OneDrive - East Tennessee State University\ETSU SEMESTER\Spring Semester 2022\CSCI 1250\lab\lab6\obj\Debug\net6.0\lab6.genruntimeconfig.cache
